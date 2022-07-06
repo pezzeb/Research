@@ -8,7 +8,7 @@ global tape;
 global tape_switch;
 
 addpath('.\class');
-addpath('..\..\function');
+addpath('..\function');
 addpath('.\test_function');
 
 init_size_tape = 10000; 

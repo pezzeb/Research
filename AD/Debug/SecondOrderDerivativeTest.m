@@ -1,4 +1,4 @@
-clc
+%Add the pricing functionality folder
 
 x = forADm(5,[1,0]);
 y = forADm(4,[0,1]);
