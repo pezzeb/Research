@@ -1,0 +1,479 @@
+*******************FIRST - SCALAR ONE DIMENSIONAL*********************************************
+The value for test 1  is 	    correct and the derivatives for test 1  is 	           correct.
+The value for test 2  is 	    correct and the derivatives for test 2  is 	           correct.
+The value for test 3  is 	    correct and the derivatives for test 3  is 	           correct.
+The value for test 4  is 	    correct and the derivatives for test 4  is 	           correct.
+The value for test 5  is 	    correct and the derivatives for test 5  is 	           correct.
+
+The value for test 6  is 	    correct and the derivatives for test 6  is 	           correct.
+The value for test 7  is 	    correct and the derivatives for test 7  is 	           correct.
+The value for test 8  is 	    correct and the derivatives for test 8  is 	           correct.
+The value for test 9  is 	    correct and the derivatives for test 9  is 	           correct.
+The value for test 10 is 	    correct and the derivatives for test 10 is 	           correct.
+
+The value for test 11 is 	    correct and the derivatives for test 11 is 	           correct.
+The value for test 12 is 	    correct and the derivatives for test 12 is 	           correct.
+The value for test 13 is 	    correct and the derivatives for test 13 is 	           correct.
+The value for test 14 is 	    correct and the derivatives for test 14 is 	           correct.
+The value for test 15 is 	    correct and the derivatives for test 15 is 	           correct.
+
+The value for test 16 is 	    correct and the derivatives for test 16 is 	           correct.
+The value for test 17 is 	    correct and the derivatives for test 17 is 	           correct.
+The value for test 18 is 	    correct and the derivatives for test 18 is 	           correct.
+The value for test 19 is 	    correct and the derivatives for test 19 is 	           correct.
+The value for test 20 is 	    correct and the derivatives for test 20 is 	           correct.
+
+The value for test 21 is 	    correct and the derivatives for test 21 is 	           correct.
+The value for test 22 is 	    correct and the derivatives for test 22 is 	           correct.
+The value for test 23 is 	    correct and the derivatives for test 23 is 	           correct.
+The value for test 24 is 	    correct and the derivatives for test 24 is 	           correct.
+The value for test 25 is 	    correct and the derivatives for test 25 is 	           correct.
+
+The value for test 26 is 	    correct and the derivatives for test 26 is 	           correct.
+The value for test 27 is 	    correct and the derivatives for test 27 is 	           correct.
+The value for test 28 is 	    correct and the derivatives for test 28 is 	           correct.
+The value for test 29 is 	    correct and the derivatives for test 29 is 	           correct.
+The value for test 30 is 	    correct and the derivatives for test 30 is 	           correct.
+
+The value for test 31 is 	    correct and the derivatives for test 31 is 	           correct.
+The value for test 32 is 	    correct and the derivatives for test 32 is 	           correct.
+The value for test 33 is 	    correct and the derivatives for test 33 is 	           correct.
+The value for test 34 is 	    correct and the derivatives for test 34 is 	           correct.
+The value for test 35 is 	    correct and the derivatives for test 35 is 	           correct.
+
+The value for test 36 is 	    correct and the derivatives for test 36 is 	           correct.
+The value for test 37 is 	    correct and the derivatives for test 37 is 	           correct.
+The value for test 38 is 	    correct and the derivatives for test 38 is 	           correct.
+The value for test 39 is 	    correct and the derivatives for test 39 is 	           correct.
+The value for test 40 is 	    correct and the derivatives for test 40 is 	           correct.
+
+The value for test 41 is 	    correct and the derivatives for test 41 is 	NOT        correct.
+The value for test 42 is 	    correct and the derivatives for test 42 is 	           correct.
+The value for test 43 is 	    correct and the derivatives for test 43 is 	           correct.
+The value for test 44 is 	    correct and the derivatives for test 44 is 	           correct.
+The value for test 45 is 	    correct and the derivatives for test 45 is 	           correct.
+
+The value for test 46 is 	    correct and the derivatives for test 46 is 	           correct.
+The value for test 47 is 	    correct and the derivatives for test 47 is 	           correct.
+The value for test 48 is 	    correct and the derivatives for test 48 is 	           correct.
+The value for test 49 is 	    correct and the derivatives for test 49 is 	           correct.
+The value for test 50 is 	    correct and the derivatives for test 50 is 	           correct.
+*******************SECOND - SCALAR TWO DIMENSIONAL*********************************************
+The value for test 1  is 	    correct and the derivatives for test 1  is 	           correct.
+The value for test 2  is 	    correct and the derivatives for test 2  is 	           correct.
+The value for test 3  is 	    correct and the derivatives for test 3  is 	           correct.
+The value for test 4  is 	    correct and the derivatives for test 4  is 	           correct.
+The value for test 5  is 	    correct and the derivatives for test 5  is 	           correct.
+
+The value for test 6  is 	    correct and the derivatives for test 6  is 	           correct.
+The value for test 7  is 	    correct and the derivatives for test 7  is 	           correct.
+The value for test 8  is 	    correct and the derivatives for test 8  is 	           correct.
+The value for test 9  is 	    correct and the derivatives for test 9  is 	           correct.
+The value for test 10 is 	    correct and the derivatives for test 10 is 	           correct.
+
+The value for test 11 is 	    correct and the derivatives for test 11 is 	           correct.
+The value for test 12 is 	    correct and the derivatives for test 12 is 	           correct.
+The value for test 13 is 	    correct and the derivatives for test 13 is 	           correct.
+The value for test 14 is 	    correct and the derivatives for test 14 is 	           correct.
+The value for test 15 is 	    correct and the derivatives for test 15 is 	           correct.
+
+The value for test 16 is 	    correct and the derivatives for test 16 is 	           correct.
+*******************THIRD - MATRIX ONE DIMENSIONAL*********************************************
+The value for test 1  is 	    correct and the derivatives for test 1  is 	           correct.
+The value for test 2  is 	    correct and the derivatives for test 2  is 	           correct.
+The value for test 3  is 	    correct and the derivatives for test 3  is 	           correct.
+The value for test 4  is 	    correct and the derivatives for test 4  is 	           correct.
+The value for test 5  is 	    correct and the derivatives for test 5  is 	           correct.
+
+The value for test 6  is 	    correct and the derivatives for test 6  is 	           correct.
+The value for test 7  is 	    correct and the derivatives for test 7  is 	           correct.
+The value for test 8  is 	    correct and the derivatives for test 8  is 	           correct.
+The value for test 9  is 	    correct and the derivatives for test 9  is 	           correct.
+The value for test 10 is 	    correct and the derivatives for test 10 is 	           correct.
+
+The value for test 11 is 	    correct and the derivatives for test 11 is 	           correct.
+The value for test 12 is 	    correct and the derivatives for test 12 is 	           correct.
+The value for test 13 is 	    correct and the derivatives for test 13 is 	           correct.
+The value for test 14 is 	    correct and the derivatives for test 14 is 	           correct.
+The value for test 15 is 	    correct and the derivatives for test 15 is 	           correct.
+
+The value for test 16 is 	    correct and the derivatives for test 16 is 	           correct.
+The value for test 17 is 	    correct and the derivatives for test 17 is 	           correct.
+The value for test 18 is 	    correct and the derivatives for test 18 is 	           correct.
+The value for test 19 is 	    correct and the derivatives for test 19 is 	           correct.
+The value for test 20 is 	    correct and the derivatives for test 20 is 	           correct.
+
+The value for test 21 is 	    correct and the derivatives for test 21 is 	           correct.
+The value for test 22 is 	    correct and the derivatives for test 22 is 	           correct.
+The value for test 23 is 	    correct and the derivatives for test 23 is 	           correct.
+The value for test 24 is 	    correct and the derivatives for test 24 is 	           correct.
+The value for test 25 is 	    correct and the derivatives for test 25 is 	           correct.
+
+The value for test 26 is 	    correct and the derivatives for test 26 is 	           correct.
+The value for test 27 is 	    correct and the derivatives for test 27 is 	           correct.
+The value for test 28 is 	    correct and the derivatives for test 28 is 	           correct.
+The value for test 29 is 	    correct and the derivatives for test 29 is 	           correct.
+The value for test 30 is 	    correct and the derivatives for test 30 is 	           correct.
+
+The value for test 31 is 	    correct and the derivatives for test 31 is 	           correct.
+The value for test 32 is 	    correct and the derivatives for test 32 is 	           correct.
+The value for test 33 is 	    correct and the derivatives for test 33 is 	           correct.
+The value for test 34 is 	    correct and the derivatives for test 34 is 	           correct.
+The value for test 35 is 	    correct and the derivatives for test 35 is 	           correct.
+
+The value for test 36 is 	    correct and the derivatives for test 36 is 	           correct.
+The value for test 37 is 	    correct and the derivatives for test 37 is 	           correct.
+The value for test 38 is 	    correct and the derivatives for test 38 is 	           correct.
+The value for test 39 is 	    correct and the derivatives for test 39 is 	           correct.
+The value for test 40 is 	    correct and the derivatives for test 40 is 	           correct.
+
+The value for test 41 is 	    correct and the derivatives for test 41 is 	           correct.
+The value for test 42 is 	    correct and the derivatives for test 42 is 	           correct.
+The value for test 43 is 	    correct and the derivatives for test 43 is 	           correct.
+The value for test 44 is 	    correct and the derivatives for test 44 is 	           correct.
+The value for test 45 is 	    correct and the derivatives for test 45 is 	           correct.
+
+The value for test 46 is 	    correct and the derivatives for test 46 is 	           correct.
+The value for test 47 is 	    correct and the derivatives for test 47 is 	           correct.
+The value for test 48 is 	    correct and the derivatives for test 48 is 	           correct.
+The value for test 49 is 	    correct and the derivatives for test 49 is 	           correct.
+The value for test 50 is 	    correct and the derivatives for test 50 is 	           correct.
+
+The value for test 51 is 	    correct and the derivatives for test 51 is 	           correct.
+The value for test 52 is 	    correct and the derivatives for test 52 is 	           correct.
+The value for test 53 is 	    correct and the derivatives for test 53 is 	           correct.
+The value for test 54 is 	    correct and the derivatives for test 54 is 	           correct.
+The value for test 55 is 	    correct and the derivatives for test 55 is 	           correct.
+
+The value for test 56 is 	    correct and the derivatives for test 56 is 	           correct.
+The value for test 57 is 	    correct and the derivatives for test 57 is 	           correct.
+The value for test 58 is 	    correct and the derivatives for test 58 is 	           correct.
+The value for test 59 is 	    correct and the derivatives for test 59 is 	           correct.
+The value for test 60 is 	    correct and the derivatives for test 60 is 	           correct.
+
+The value for test 61 is 	    correct and the derivatives for test 61 is 	           correct.
+The value for test 62 is 	    correct and the derivatives for test 62 is 	           correct.
+The value for test 63 is 	    correct and the derivatives for test 63 is 	           correct.
+The value for test 64 is 	    correct and the derivatives for test 64 is 	           correct.
+The value for test 65 is 	    correct and the derivatives for test 65 is 	           correct.
+
+The value for test 66 is 	    correct and the derivatives for test 66 is 	           correct.
+The value for test 67 is 	    correct and the derivatives for test 67 is 	           correct.
+The value for test 68 is 	    correct and the derivatives for test 68 is 	           correct.
+The value for test 69 is 	    correct and the derivatives for test 69 is 	           correct.
+The value for test 70 is 	    correct and the derivatives for test 70 is 	           correct.
+
+The value for test 71 is 	    correct and the derivatives for test 71 is 	           correct.
+The value for test 72 is 	    correct and the derivatives for test 72 is 	           correct.
+The value for test 73 is 	    correct and the derivatives for test 73 is 	           correct.
+The value for test 74 is 	    correct and the derivatives for test 74 is 	           correct.
+The value for test 75 is 	    correct and the derivatives for test 75 is 	           correct.
+
+The value for test 76 is 	    correct and the derivatives for test 76 is 	           correct.
+The value for test 77 is 	    correct and the derivatives for test 77 is 	           correct.
+The value for test 78 is 	    correct and the derivatives for test 78 is 	           correct.
+The value for test 79 is 	    correct and the derivatives for test 79 is 	           correct.
+The value for test 80 is 	    correct and the derivatives for test 80 is 	           correct.
+
+The value for test 81 is 	    correct and the derivatives for test 81 is 	           correct.
+The value for test 82 is 	    correct and the derivatives for test 82 is 	           correct.
+The value for test 83 is 	    correct and the derivatives for test 83 is 	           correct.
+The value for test 84 is 	    correct and the derivatives for test 84 is 	           correct.
+The value for test 85 is 	    correct and the derivatives for test 85 is 	           correct.
+
+The value for test 86 is 	    correct and the derivatives for test 86 is 	           correct.
+The value for test 87 is 	    correct and the derivatives for test 87 is 	           correct.
+The value for test 88 is 	    correct and the derivatives for test 88 is 	           correct.
+The value for test 89 is 	    correct and the derivatives for test 89 is 	           correct.
+The value for test 90 is 	    correct and the derivatives for test 90 is 	           correct.
+
+The value for test 91 is 	    correct and the derivatives for test 91 is 	           correct.
+The value for test 92 is 	    correct and the derivatives for test 92 is 	           correct.
+The value for test 93 is 	    correct and the derivatives for test 93 is 	           correct.
+The value for test 94 is 	    correct and the derivatives for test 94 is 	           correct.
+The value for test 95 is 	    correct and the derivatives for test 95 is 	           correct.
+
+The value for test 96 is 	    correct and the derivatives for test 96 is 	           correct.
+The value for test 97 is 	    correct and the derivatives for test 97 is 	           correct.
+The value for test 98 is 	    correct and the derivatives for test 98 is 	           correct.
+The value for test 99 is 	    correct and the derivatives for test 99 is 	           correct.
+*******************FOURTH - MATRIX TWO DIMENSIONAL*********************************************
+The value for test 1  is 	    correct and the derivatives for test 1  is 	           correct.
+The value for test 2  is 	    correct and the derivatives for test 2  is 	           correct.
+The value for test 3  is 	    correct and the derivatives for test 3  is 	           correct.
+The value for test 4  is 	    correct and the derivatives for test 4  is 	           correct.
+The value for test 5  is 	    correct and the derivatives for test 5  is 	           correct.
+
+The value for test 6  is 	    correct and the derivatives for test 6  is 	           correct.
+The value for test 7  is 	    correct and the derivatives for test 7  is 	           correct.
+The value for test 8  is 	    correct and the derivatives for test 8  is 	           correct.
+The value for test 9  is 	    correct and the derivatives for test 9  is 	           correct.
+The value for test 10 is 	    correct and the derivatives for test 10 is 	           correct.
+
+The value for test 11 is 	    correct and the derivatives for test 11 is 	           correct.
+The value for test 12 is 	    correct and the derivatives for test 12 is 	           correct.
+The value for test 13 is 	    correct and the derivatives for test 13 is 	           correct.
+*******************FIFTH - HARD COMBINATION*********************************************
+The value for test 1  is 	    correct and the derivatives for test 1  is 	           correct.
+The value for test 2  is 	    correct and the derivatives for test 2  is 	           correct.
+The value for test 3  is 	    correct and the derivatives for test 3  is 	           correct.
+The value for test 4  is 	    correct and the derivatives for test 4  is 	           correct.
+The value for test 5  is 	    correct and the derivatives for test 5  is 	           correct.
+
+The value for test 6  is 	    correct and the derivatives for test 6  is 	           correct.
+The value for test 7  is 	    correct and the derivatives for test 7  is 	           correct.
+The value for test 8  is 	    correct and the derivatives for test 8  is 	           correct.
+The value for test 9  is 	    correct and the derivatives for test 9  is 	           correct.
+The value for test 10 is 	    correct and the derivatives for test 10 is 	           correct.
+
+The value for test 11 is 	    correct and the derivatives for test 11 is 	           correct.
+The value for test 12 is 	    correct and the derivatives for test 12 is 	           correct.
+The value for test 13 is 	    correct and the derivatives for test 13 is 	           correct.
+The value for test 14 is 	    correct and the derivatives for test 14 is 	           correct.
+*******************SIXTH - REST COMBINATION*********************************************
+The value for test 1  is 	    correct and the derivatives for test 1  is 	           correct.
+The value for test 2  is 	    correct and the derivatives for test 2  is 	           correct.
+The value for test 3  is 	    correct and the derivatives for test 3  is 	           correct.
+The value for test 4  is 	    correct and the derivatives for test 4  is 	           correct.
+The value for test 5  is 	    correct and the derivatives for test 5  is 	           correct.
+
+The value for test 6  is 	    correct and the derivatives for test 6  is 	           correct.
+The value for test 7  is 	    correct and the derivatives for test 7  is 	           correct.
+The value for test 8  is 	    correct and the derivatives for test 8  is 	           correct.
+The value for test 9  is 	    correct and the derivatives for test 9  is 	           correct.
+The value for test 10 is 	    correct and the derivatives for test 10 is 	           correct.
+
+The value for test 11 is 	    correct and the derivatives for test 11 is 	           correct.
+The value for test 12 is 	    correct and the derivatives for test 12 is 	           correct.
+The value for test 13 is 	    correct and the derivatives for test 13 is 	           correct.
+The value for test 14 is 	    correct and the derivatives for test 14 is 	           correct.
+The value for test 15 is 	    correct and the derivatives for test 15 is 	           correct.
+
+The value for test 16 is 	    correct and the derivatives for test 16 is 	           correct.
+The value for test 17 is 	    correct and the derivatives for test 17 is 	           correct.
+The value for test 18 is 	    correct and the derivatives for test 18 is 	           correct.
+The value for test 19 is 	    correct and the derivatives for test 19 is 	           correct.
+The value for test 20 is 	    correct and the derivatives for test 20 is 	           correct.
+
+The value for test 21 is 	    correct and the derivatives for test 21 is 	           correct.
+The value for test 22 is 	    correct and the derivatives for test 22 is 	           correct.
+The value for test 23 is 	    correct and the derivatives for test 23 is 	           correct.
+The value for test 24 is 	    correct and the derivatives for test 24 is 	           correct.
+The value for test 25 is 	    correct and the derivatives for test 25 is 	           correct.
+
+The value for test 26 is 	    correct and the derivatives for test 26 is 	           correct.
+The value for test 27 is 	    correct and the derivatives for test 27 is 	           correct.
+The value for test 28 is 	    correct and the derivatives for test 28 is 	           correct.
+The value for test 29 is 	    correct and the derivatives for test 29 is 	           correct.
+The value for test 30 is 	    correct and the derivatives for test 30 is 	           correct.
+
+The value for test 31 is 	    correct and the derivatives for test 31 is 	           correct.
+*******************SEVENTH - REST COMBINATION*********************************************
+The value for test 1  is 	    correct and the derivatives for test 1  is 	           correct.
+The value for test 2  is 	    correct and the derivatives for test 2  is 	           correct.
+The value for test 3  is 	    correct and the derivatives for test 3  is 	           correct.
+The value for test 4  is 	    correct and the derivatives for test 4  is 	           correct.
+The value for test 5  is 	    correct and the derivatives for test 5  is 	           correct.
+
+The value for test 6  is 	    correct and the derivatives for test 6  is 	           correct.
+The value for test 7  is 	    correct and the derivatives for test 7  is 	           correct.
+The value for test 8  is 	    correct and the derivatives for test 8  is 	           correct.
+The value for test 9  is 	    correct and the derivatives for test 9  is 	           correct.
+The value for test 10 is 	    correct and the derivatives for test 10 is 	           correct.
+
+The value for test 11 is 	    correct and the derivatives for test 11 is 	           correct.
+The value for test 12 is 	    correct and the derivatives for test 12 is 	           correct.
+The value for test 13 is 	    correct and the derivatives for test 13 is 	           correct.
+The value for test 14 is 	    correct and the derivatives for test 14 is 	           correct.
+The value for test 15 is 	    correct and the derivatives for test 15 is 	           correct.
+
+The value for test 16 is 	    correct and the derivatives for test 16 is 	           correct.
+The value for test 17 is 	    correct and the derivatives for test 17 is 	           correct.
+The value for test 18 is 	    correct and the derivatives for test 18 is 	           correct.
+The value for test 19 is 	    correct and the derivatives for test 19 is 	           correct.
+The value for test 20 is 	    correct and the derivatives for test 20 is 	           correct.
+
+The value for test 21 is 	    correct and the derivatives for test 21 is 	           correct.
+The value for test 22 is 	    correct and the derivatives for test 22 is 	           correct.
+The value for test 23 is 	    correct and the derivatives for test 23 is 	           correct.
+The value for test 24 is 	    correct and the derivatives for test 24 is 	           correct.
+The value for test 25 is 	    correct and the derivatives for test 25 is 	           correct.
+
+The value for test 26 is 	    correct and the derivatives for test 26 is 	           correct.
+The value for test 27 is 	    correct and the derivatives for test 27 is 	           correct.
+The value for test 28 is 	    correct and the derivatives for test 28 is 	           correct.
+The value for test 29 is 	    correct and the derivatives for test 29 is 	           correct.
+*******************EIGHT - REST COMBINATION*********************************************
+The value for test 1  is 	    correct and the derivatives for test 1  is 	           correct.
+The value for test 2  is 	    correct and the derivatives for test 2  is 	           correct.
+The value for test 3  is 	    correct and the derivatives for test 3  is 	           correct.
+The value for test 4  is 	    correct and the derivatives for test 4  is 	           correct.
+The value for test 5  is 	    correct and the derivatives for test 5  is 	           correct.
+
+The value for test 6  is 	    correct and the derivatives for test 6  is 	           correct.
+The value for test 7  is 	    correct and the derivatives for test 7  is 	           correct.
+The value for test 8  is 	    correct and the derivatives for test 8  is 	           correct.
+The value for test 9  is 	    correct and the derivatives for test 9  is 	           correct.
+The value for test 10 is 	    correct and the derivatives for test 10 is 	           correct.
+
+The value for test 11 is 	    correct and the derivatives for test 11 is 	           correct.
+The value for test 12 is 	    correct and the derivatives for test 12 is 	           correct.
+The value for test 13 is 	    correct and the derivatives for test 13 is 	           correct.
+The value for test 14 is 	    correct and the derivatives for test 14 is 	           correct.
+The value for test 15 is 	    correct and the derivatives for test 15 is 	           correct.
+
+The value for test 16 is 	    correct and the derivatives for test 16 is 	           correct.
+The value for test 17 is 	    correct and the derivatives for test 17 is 	           correct.
+The value for test 18 is 	    correct and the derivatives for test 18 is 	           correct.
+The value for test 19 is 	    correct and the derivatives for test 19 is 	           correct.
+The value for test 20 is 	    correct and the derivatives for test 20 is 	           correct.
+
+The value for test 21 is 	    correct and the derivatives for test 21 is 	           correct.
+The value for test 22 is 	    correct and the derivatives for test 22 is 	           correct.
+The value for test 23 is 	    correct and the derivatives for test 23 is 	           correct.
+The value for test 24 is 	    correct and the derivatives for test 24 is 	           correct.
+The value for test 25 is 	    correct and the derivatives for test 25 is 	           correct.
+
+The value for test 26 is 	    correct and the derivatives for test 26 is 	           correct.
+The value for test 27 is 	    correct and the derivatives for test 27 is 	           correct.
+The value for test 28 is 	    correct and the derivatives for test 28 is 	           correct.
+*******************NINTH - REST COMBINATION*********************************************
+The value for test 1  is 	    correct and the derivatives for test 1  is 	           correct.
+The value for test 2  is 	    correct and the derivatives for test 2  is 	           correct.
+The value for test 3  is 	    correct and the derivatives for test 3  is 	           correct.
+The value for test 4  is 	    correct and the derivatives for test 4  is 	           correct.
+The value for test 5  is 	    correct and the derivatives for test 5  is 	           correct.
+
+The value for test 6  is 	    correct and the derivatives for test 6  is 	           correct.
+The value for test 7  is 	    correct and the derivatives for test 7  is 	           correct.
+The value for test 8  is 	    correct and the derivatives for test 8  is 	           correct.
+The value for test 9  is 	    correct and the derivatives for test 9  is 	           correct.
+The value for test 10 is 	    correct and the derivatives for test 10 is 	           correct.
+
+The value for test 11 is 	    correct and the derivatives for test 11 is 	           correct.
+The value for test 12 is 	    correct and the derivatives for test 12 is 	           correct.
+The value for test 13 is 	    correct and the derivatives for test 13 is 	           correct.
+The value for test 14 is 	    correct and the derivatives for test 14 is 	           correct.
+The value for test 15 is 	    correct and the derivatives for test 15 is 	           correct.
+
+The value for test 16 is 	    correct and the derivatives for test 16 is 	           correct.
+The value for test 17 is 	    correct and the derivatives for test 17 is 	           correct.
+The value for test 18 is 	    correct and the derivatives for test 18 is 	           correct.
+The value for test 19 is 	    correct and the derivatives for test 19 is 	           correct.
+The value for test 20 is 	    correct and the derivatives for test 20 is 	           correct.
+
+The value for test 21 is 	    correct and the derivatives for test 21 is 	           correct.
+The value for test 22 is 	    correct and the derivatives for test 22 is 	           correct.
+The value for test 23 is 	    correct and the derivatives for test 23 is 	           correct.
+The value for test 24 is 	    correct and the derivatives for test 24 is 	           correct.
+The value for test 25 is 	    correct and the derivatives for test 25 is 	           correct.
+
+The value for test 26 is 	    correct and the derivatives for test 26 is 	           correct.
+The value for test 27 is 	    correct and the derivatives for test 27 is 	           correct.
+The value for test 28 is 	    correct and the derivatives for test 28 is 	           correct.
+The value for test 29 is 	    correct and the derivatives for test 29 is 	           correct.
+The value for test 30 is 	    correct and the derivatives for test 30 is 	           correct.
+*******************TENTH - REST COMBINATION*********************************************
+The value for test 1  is 	    correct and the derivatives for test 1  is 	           correct.
+The value for test 2  is 	    correct and the derivatives for test 2  is 	           correct.
+The value for test 3  is 	    correct and the derivatives for test 3  is 	           correct.
+The value for test 4  is 	    correct and the derivatives for test 4  is 	           correct.
+The value for test 5  is 	    correct and the derivatives for test 5  is 	           correct.
+
+The value for test 6  is 	    correct and the derivatives for test 6  is 	           correct.
+The value for test 7  is 	    correct and the derivatives for test 7  is 	           correct.
+The value for test 8  is 	    correct and the derivatives for test 8  is 	           correct.
+The value for test 9  is 	    correct and the derivatives for test 9  is 	           correct.
+The value for test 10 is 	    correct and the derivatives for test 10 is 	           correct.
+
+The value for test 11 is 	    correct and the derivatives for test 11 is 	           correct.
+The value for test 12 is 	    correct and the derivatives for test 12 is 	           correct.
+The value for test 13 is 	    correct and the derivatives for test 13 is 	           correct.
+The value for test 14 is 	    correct and the derivatives for test 14 is 	           correct.
+The value for test 15 is 	    correct and the derivatives for test 15 is 	           correct.
+
+The value for test 16 is 	    correct and the derivatives for test 16 is 	           correct.
+The value for test 17 is 	    correct and the derivatives for test 17 is 	           correct.
+The value for test 18 is 	    correct and the derivatives for test 18 is 	           correct.
+The value for test 19 is 	    correct and the derivatives for test 19 is 	           correct.
+The value for test 20 is 	    correct and the derivatives for test 20 is 	           correct.
+
+The value for test 21 is 	    correct and the derivatives for test 21 is 	           correct.
+The value for test 22 is 	    correct and the derivatives for test 22 is 	           correct.
+The value for test 23 is 	    correct and the derivatives for test 23 is 	           correct.
+The value for test 24 is 	    correct and the derivatives for test 24 is 	           correct.
+The value for test 25 is 	    correct and the derivatives for test 25 is 	           correct.
+
+The value for test 26 is 	    correct and the derivatives for test 26 is 	           correct.
+The value for test 27 is 	    correct and the derivatives for test 27 is 	           correct.
+The value for test 28 is 	    correct and the derivatives for test 28 is 	           correct.
+*******************ELEVENTH - REST COMBINATION*********************************************
+The value for test 1  is 	    correct and the derivatives for test 1  is 	           correct.
+The value for test 2  is 	    correct and the derivatives for test 2  is 	           correct.
+The value for test 3  is 	    correct and the derivatives for test 3  is 	           correct.
+The value for test 4  is 	    correct and the derivatives for test 4  is 	           correct.
+The value for test 5  is 	    correct and the derivatives for test 5  is 	           correct.
+
+The value for test 6  is 	    correct and the derivatives for test 6  is 	           correct.
+The value for test 7  is 	    correct and the derivatives for test 7  is 	           correct.
+*******************TWELTH - REST COMBINATION*********************************************
+The value for test 1  is 	    correct and the derivatives for test 1  is 	           correct.
+The value for test 2  is 	    correct and the derivatives for test 2  is 	           correct.
+The value for test 3  is 	    correct and the derivatives for test 3  is 	           correct.
+The value for test 4  is 	    correct and the derivatives for test 4  is 	           correct.
+*******************THIRTEENTH - REST COMBINATION*********************************************
+The value for test 1  is 	    correct and the derivatives for test 1  is 	           correct.
+The value for test 2  is 	    correct and the derivatives for test 2  is 	           correct.
+The value for test 3  is 	    correct and the derivatives for test 3  is 	           correct.
+The value for test 4  is 	    correct and the derivatives for test 4  is 	           correct.
+The value for test 5  is 	    correct and the derivatives for test 5  is 	           correct.
+
+The value for test 6  is 	    correct and the derivatives for test 6  is 	           correct.
+The value for test 7  is 	    correct and the derivatives for test 7  is 	           correct.
+The value for test 8  is 	    correct and the derivatives for test 8  is 	           correct.
+The value for test 9  is 	    correct and the derivatives for test 9  is 	           correct.
+The value for test 10 is 	    correct and the derivatives for test 10 is 	           correct.
+
+The value for test 11 is 	    correct and the derivatives for test 11 is 	           correct.
+The value for test 12 is 	    correct and the derivatives for test 12 is 	           correct.
+The value for test 13 is 	    correct and the derivatives for test 13 is 	           correct.
+The value for test 14 is 	    correct and the derivatives for test 14 is 	           correct.
+The value for test 15 is 	    correct and the derivatives for test 15 is 	           correct.
+
+The value for test 16 is 	    correct and the derivatives for test 16 is 	           correct.
+The value for test 17 is 	    correct and the derivatives for test 17 is 	           correct.
+The value for test 18 is 	    correct and the derivatives for test 18 is 	           correct.
+The value for test 19 is 	    correct and the derivatives for test 19 is 	           correct.
+The value for test 20 is 	    correct and the derivatives for test 20 is 	           correct.
+
+The value for test 21 is 	    correct and the derivatives for test 21 is 	           correct.
+The value for test 22 is 	    correct and the derivatives for test 22 is 	           correct.
+The value for test 23 is 	    correct and the derivatives for test 23 is 	           correct.
+The value for test 24 is 	    correct and the derivatives for test 24 is 	           correct.
+The value for test 25 is 	    correct and the derivatives for test 25 is 	           correct.
+
+The value for test 26 is 	    correct and the derivatives for test 26 is 	           correct.
+The value for test 27 is 	    correct and the derivatives for test 27 is 	           correct.
+The value for test 28 is 	    correct and the derivatives for test 28 is 	           correct.
+The value for test 29 is 	    correct and the derivatives for test 29 is 	           correct.
+The value for test 30 is 	    correct and the derivatives for test 30 is 	           correct.
+
+The value for test 31 is 	    correct and the derivatives for test 31 is 	           correct.
+The value for test 32 is 	    correct and the derivatives for test 32 is 	           correct.
+The value for test 33 is 	    correct and the derivatives for test 33 is 	           correct.
+The value for test 34 is 	    correct and the derivatives for test 34 is 	           correct.
+*******************FOURTEENTH - PROBABILITY*********************************************
+The value for test 1  is 	    correct and the derivatives for test 1  is 	           correct.
+The value for test 2  is 	    correct and the derivatives for test 2  is 	           correct.
+The value for test 3  is 	    correct and the derivatives for test 3  is 	           correct.
+The value for test 4  is 	    correct and the derivatives for test 4  is 	           correct.
+The value for test 5  is 	    correct and the derivatives for test 5  is 	           correct.
+
+The value for test 6  is 	    correct and the derivatives for test 6  is 	           correct.
+The value for test 7  is 	    correct and the derivatives for test 7  is 	           correct.
+The value for test 8  is 	    correct and the derivatives for test 8  is 	           correct.
+The value for test 9  is 	    correct and the derivatives for test 9  is 	           correct.
+The value for test 10 is 	    correct and the derivatives for test 10 is 	           correct.
+
+The value for test 11 is 	    correct and the derivatives for test 11 is 	           correct.
+The value for test 12 is 	    correct and the derivatives for test 12 is 	           correct.
