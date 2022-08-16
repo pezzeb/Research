@@ -1,0 +1,14 @@
+\mainmatter  %Turn on chapter numbering, resets page numbering, and use arabic numerals for page numbers
+
+% Set the behaviour of the ToC: counterwihout, makes the numbering continuous and they are hence not reset between chapters
+\setcounter{tocdepth}{2} %0 - down to chapters, 1 - sections, 2 - subsections and so on
+\counterwithout{table}{chapter} 
+\counterwithout{figure}{chapter}
+\counterwithout{equation}{chapter}
+%\counterwithout{myremark}{chapter} %User defined can be handle the same 
+
+\pagestyle{standardThesis}
+\fancyhead[LE]{\bfseries \MainTitleThesis} % Left field on Even pages
+\fancyhead[RO]{\bfseries \nouppercase{\rightmark}} % Right field on Odd  pages:  https://tex.stackexchange.com/questions/39587
+
+\bookmarksetup{depth=1} %Bookmarks in the pdf include Chapters and sections (but not lower levels)

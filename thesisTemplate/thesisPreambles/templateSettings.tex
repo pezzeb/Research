@@ -1,0 +1,94 @@
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+
+\usepackage{fancyhdr} % Custom footer and headers
+\usepackage{pdfpages} % Necessary to inclued pdf (papers) into the project
+
+\usepackage[backend=biber,style=alphabetic,sorting=ynt]{biblatex} %Or another biblatex package (e.g., biblatex-chicago)
+
+\usepackage{tabto} %Used to align the \addcontentsline in each of the paper setups
+\usepackage{parskip} %New paragraph is indicate by space rather than indentation. (This is ofc not necessary for the template, but space is more clean in the authors opinion.)
+\usepackage[hidelinks]{hyperref} % removes the border arounds links in urls, and reference to e.g., equations
+
+\usepackage{bookmark} %Create bookmarks (i.e., an overview in the generated pdf)
+\bookmarksetup{open} %If open': the bookmark tab/panel opens automatically in pdf-viewer
+
+\usepackage{tikz} %This is necessary for the ``Thumbs indicators''
+
+%% Page styles
+\renewcommand{\sectionmark}[1]{\markright{#1}} %This removes number from the sectionmark, which is used by leftmark and rightmark
+
+% The command CHAPTER use this pagestyle (plain) on the first page in the chapter, but on other pages it uses the user requested style.
+\fancypagestyle{plain}{%
+\fancyhead{} %empty headers on plain pages
+\renewcommand{\headrulewidth}{0pt} % and the line
+}
+
+\fancypagestyle{standardThesis}{%
+\fancyhf{}
+% Head (The header varies throughout the dissertation, and hence they are not specified)
+\fancyhead{}
+% Foot
+\fancyfoot[LE]{\bfseries \thepage}      % Left  field on Even pages: Empty
+\fancyfoot[RO]{\bfseries \thepage}      % Right field on Odd  pages: Empty
+}
+
+\fancypagestyle{standardThesisPdfInclude}{%
+\fancyhf{}
+\fancyhead{}
+\renewcommand{\headrulewidth}{0pt}
+% Foot
+\fancyfoot[LE]{\bfseries \thepage}      % Left  field on Even pages: Empty
+\fancyfoot[RO]{\bfseries \thepage}      % Right field on Odd  pages: Empty
+}
+
+%% Redefines the Chapter header: 'Chapter ##' -> '##.' (Note the trailing period)
+\makeatletter
+\renewcommand{\@makechapterhead}[1]{%
+\vspace*{50 pt}
+{\setlength{\parindent}{0pt} \raggedleft \normalfont
+\bfseries\Huge 
+\ifnum \value{secnumdepth}>1
+   \if@mainmatter\thechapter   \fi%
+\fi
+\vspace*{-20 pt}
+\rule{\textwidth}{0.8pt}
+\bfseries\huge 
+\raggedleft
+#1
+\par\nobreak\vspace{40 pt}}}
+\makeatother
+
+% Redefine CLEARDOUBLEPAGE. Make the extra page have the pagestyle 'empty'. (Note, \chapter also use the cleardoublepage-command)
+\makeatletter
+\renewcommand{\cleardoublepage}{\clearpage\if@twoside \ifodd\c@page\else
+\hbox{}
+\thispagestyle{empty}
+
+\newpage
+\if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\makeatother
+
+% THUMB INDEXES
+\newcounter{thumbIndexCounter} %This counter is two offset the thumb for the different papers
+\setcounter{thumbIndexCounter}{0}
+
+\setlength{\unitlength}{18mm}
+\newlength{\blobHeight}
+\setlength{\blobHeight}{.7\unitlength}
+
+\newcommand{\colorblob}[1][black]{\textcolor{#1}{\rule[-0.35cm]{1.4\unitlength}{\blobHeight}}}
+
+\newcommand{\colorpblob}[1][black]{%\thepage
+\begin{picture}(0,0)
+\put(0.61,-0){\colorblob[#1]} %\put(0.61,-\value{line}){\blob}
+\end{picture}}
+
+\newcommand{\thumbWithColor}[2][black]{ %two argumentse, the first is optional (default black). E.g., \thumbWithColor[green]{Paper 1} or \thumbWithColor{Paper 1}
+\vspace*{\value{thumbIndexCounter}\unitlength}
+\hfill{\Huge\textbf{#2}}%The empty row below has to be there (NO JOKE!)
+
+\marginpar{\colorpblob[#1]}
+\addtocounter{thumbIndexCounter}{1}
+}
+

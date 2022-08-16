@@ -1,0 +1,5 @@
+\bookmarksetup{depth=0} %Bookmarks in the pdf include Chapters (but not lower levels)
+\addtocontents{toc}{\protect\setcounter{tocdepth}{0}} %Changes the Table of content behviour from this point 
+\addtocontents{toc}{\protect\contentsline {chapter}{\protect\large Appended Papers}{ }{}} %Adds a chapter heading ('Appended Papers') in the Table of content
+
+\renewcommand{\thesection}{\arabic{section}} %The default for Books is to number sections as Chapter.Section. This renewcommand makes the numbering as Sections (without chapter)

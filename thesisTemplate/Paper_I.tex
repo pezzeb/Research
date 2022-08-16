@@ -1,0 +1,23 @@
+
+\begin{refsection}
+
+%%%
+% Users can, if they want, define newcommands and similar things in this space
+%%%
+
+\thispagestyle{empty}
+\input{./papersToInclude/paper1/paper1abstractKeywords.tex}
+\clearpage
+
+\input{./papersToInclude/paper1/paper1MainBody.tex}
+\printbibliography
+\clearpage
+
+\setcounter{section}{0}
+\def\thesection{Appendix \Alph{section}}
+
+\def\thesection{\Alph{section}}
+\input{./papersToInclude/paper1/paper1Appendix.tex}
+\def\thesection{\arabic{section}} %Reset A change made in the Appendix
+
+\end{refsection}

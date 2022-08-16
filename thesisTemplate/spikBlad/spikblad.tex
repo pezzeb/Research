@@ -1,0 +1,61 @@
+
+\documentclass[12pt, a5paper]{article}
+\usepackage{lipsum}
+\usepackage{parskip}
+\usepackage[hidelinks]{hyperref} %uncolored doi link
+\usepackage{geometry}
+	\geometry{left=25mm, right=25mm, top=25mm, bottom=25mm}
+
+%These were used to (exactly) match a MS word template
+\usepackage{fontspec}
+\newfontfamily{\latexCalibri}{Calibri}
+\newfontfamily{\latexTimesNewRoman}{Times New Roman}
+
+\usepackage{tikz} %This is use for the QR-code
+\input{../thesisPreambles/listOfTitlesAndSimilar.tex} 
+
+\begin{document}
+\pagestyle{empty}
+
+\begin{center}
+\latexCalibri\fontsize{10}{12}\selectfont Linköping Studies in Science and Technology. Dissertations No. \Number
+
+\latexTimesNewRoman\fontsize{14}{16.8}\selectfont\textbf{\MainTitleThesis}
+
+\fontsize{11}{13.2}\selectfont \SecondaryTitleThesis
+
+\latexTimesNewRoman\fontsize{14}{16.8}\selectfont \Author
+
+\latexTimesNewRoman\fontsize{10}{12}\selectfont\textbf{Akademisk avhandling}
+\end{center}
+\latexTimesNewRoman\fontsize{9}{10.2}\selectfont
+som för avläggande av teknologie doktorsexamen vid Linköpings uni\-versitet kommer att offentligt försvaras i \roomForDefence, \houseForDefence, \campusForDefence, \cityForDefence, \dateForDefence{ }kl. \clockForDefence. Fakultetsopponent är \opponentTitel{ }\opponent.
+
+\begin{center}
+\latexTimesNewRoman\fontsize{10}{12}\selectfont\textbf{Abstract}
+\end{center}
+
+\latexTimesNewRoman\fontsize{9}{10.2}\selectfont
+\input{../_Shortfiles/abstract.tex}
+
+\vfill
+\begin{center}
+\includegraphics[width=0.5\linewidth]{../Logos/blackLogo.pdf}
+\end{center}
+
+\begin{center}
+\latexTimesNewRoman\fontsize{10}{12}\selectfont
+\phdStudentDivisionSwedish,\\
+\phdStudentDepartmentSwedish \\
+Linköpings universitet, SE-581 83 Linköping, Sweden
+\end{center}
+\latexTimesNewRoman\fontsize{10}{12}\selectfont
+ISBN \isbnPrint{ }\newline
+ISBN \isbnPdf \newline 
+ISSN \issn \newline
+DOI: \href{https://doi.org/11.1111/1111111111111}{https://doi.org/11.1111/1111111111111}
+\begin{tikzpicture}[overlay]
+	\node[anchor=south east] at (3.55,-0.22) {\includegraphics[width=1.73cm]{spikbladQRtoLiu.pdf}}; %This can e.g., be used as a link to the doi
+\end{tikzpicture}
+
+\end{document}

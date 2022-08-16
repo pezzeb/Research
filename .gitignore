@@ -1,0 +1,13 @@
+*.log
+thesisTemplate/spikBlad/spikBladQR.png
+thesisTemplate/spikBlad/spikBladQR_PEES.pdf
+thesisTemplate/spikBlad/auxfiles/
+*.gz
+thesisTemplate/tikzGraphics/auxfiles/
+thesisTemplate/tikzGraphics/pdffiles/
+thesisTemplate/tikzGraphics/cover/auxfiles/
+thesisTemplate/spikBlad/pdffiles/spikblad.pdf
+thesisTemplate/spikBlad/pdffiles/spikbladPdflatex.pdf
+thesisTemplate/auxfiles/
+thesisTemplate/pdffiles/
+thesisTemplate/_paperToBeIncludedAsPdf/paper2pdfInclude.tex

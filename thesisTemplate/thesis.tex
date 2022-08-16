@@ -1,0 +1,55 @@
+
+\documentclass[11pt,twoside,english,s5paper]{book} 
+\usepackage{lipsum} %Only necessary for the Template's dummy text
+
+
+\input{./thesisPreambles/templateSettings.tex}
+
+% INCLUSION
+%Bib files. It is possible to add more than one. 
+\addbibresource{./papersToInclude/biblographies/kappaBiblography.bib}
+\addbibresource{./papersToInclude/biblographies/papersBiblography.bib}
+
+% Add a file with defintion of titles, author, etc.
+\input{./thesisPreambles/listOfTitlesAndSimilar.tex}
+
+\begin{document}
+
+%%  TITLE PAGES (i.e., the two first pages in the dissertation)
+\input{./prefaceFiles/titlePages.tex}
+
+%%  PREFACE PAGES (i.e., standard pages: such as abstracts, acknowledgement and so on)
+\input{./setupFiles/prefaceSetup.tex} 
+\chapter{Abstract}
+\input{./prefaceFiles/abstract.tex}
+\chapter{Sammanfattning}
+\input{./prefaceFiles/sammanfattning.tex}
+\chapter{Acknowledgments}
+\input{./prefaceFiles/acknowledgements.tex}
+\chapter{List of Papers}
+\input{./prefaceFiles/listofpapers.tex} 
+\chapter{Author Statements}
+\input{./prefaceFiles/authorstatements.tex}
+
+\tableofcontents
+
+%% KAPPA
+\input{./setupFiles/kappaSetup.tex}
+\include{Kappa}
+
+%% PAPERS
+\input{./setupFiles/papersSetup.tex} %This is general for all papers, then each papers have individual setups
+
+\input{./setupFiles/paperInfo_I} 
+\include{Paper_I}
+
+\input{./setupFiles/paperInfo_II} 
+\include{Paper_II}
+
+\input{./setupFiles/paperInfo_III}
+\include{Paper_III}
+
+\input{./setupFiles/paperInfo_IV}
+\include{Paper_IV}
+
+\end{document}
